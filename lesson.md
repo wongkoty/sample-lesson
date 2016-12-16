@@ -31,7 +31,7 @@ By default, the terminal should say last login and give the name of the user you
 
 In our terminal type:
 ```bash 
-    $ pwd
+$ pwd
 ```
 
 `pwd` should Print Working Directory, which means it is the current directory that we are in. 
@@ -40,7 +40,15 @@ Next lets go into our desktop.
 
 In terminal type:
 ```bash
-    $ cd Desktop
+$ cd Desktop
 ```
+
+`cd` should allow us to Change Directory to the one we specfied, which was Desktop.
+
+Now `pwd` in terminal again and it should display something along the lines of:
+`/Users/some_user/Desktop/` 
+
+If you get something along those lines give me a thumbs up!
+
 
 
