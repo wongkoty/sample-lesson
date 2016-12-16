@@ -67,6 +67,12 @@ The `ls` commands lists the contents of the directory we currently are in. In th
 ---
 ## Now let's create our HTML file and start writing some HTML! (10 minutes)
 
+*What is HTML?*
+
+HTML is Hypertext Markup Language and describe structures of webpages using markup. In other words, HTML is what builds websites and displays texts, images, and content.
+
+Before we get started with that, we have to create our file!
+
 Let's go into our first_folder directory like how we did to get into our desktop directory. 
 
 In terminal:
@@ -117,3 +123,59 @@ Let's set up our html file by typing html in our text editor and then pressing t
 ```
 
 This is pretty much how we will set up the skeleton of an HTML file for the remainder of the course. 
+
+Now, we will use two different `HTML elements` to render some text onto the page.
+
+The first one I want to use is an `<h1>` tag, which stands for header one. This usually denotes the most important section of a given webpage and by default renders the largest text. 
+
+Let's put an `<h1>` tag with the inner text `Hello World` in it. To do this, we go into the `<body>` of our HTML file and place `<h1>Hello World</h1>`
+
+- HTML tag syntax goes something like this:
+```
+<some HTML tag>text/more HTML tags</close tag>
+```
+
+So after placing our `<h1>` tags in our body, our file should now resemble this:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <h1>Hello World</h1>
+
+</body>
+</html>
+```
+
+Now let's do the same thing, except this time we will use a `<h4>` tag with the inner text of your choosing.
+
+**Give me thumbs up in slack when you are finished.**
+
+You should have something like this:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <h1>Hello World</h1>
+  <h4>Meow</h4>
+</body>
+</html>
+```
+
+##FINALLY##
+
+Let's look at our work of art! Double click the `HTML` file to open it in a browser of your choice! Do you see the size difference of the text in `<h1>` and `<h4>?`
+
+---
+##Summary##
+
+We learn in this lesson how to navigate our computer's directory through our terminal. Get used to this, as all developers use the terminal to run commands. 
+
+Also in this lesson, we learned the basics of how to render HTML onto a webpage, the very start of building out a complex web application!
+
