@@ -1,5 +1,6 @@
-# <img src="http://www.writeraccess.com/wp-content/uploads/2014/08/blog-html-5.png" height="250"></br>
-Commandline and HTML Basics!
+<img src="http://www.writeraccess.com/wp-content/uploads/2014/08/blog-html-5.png" height="250"></br>
+#Commandline and HTML Basics!
+
 
 ## Objectives
 
