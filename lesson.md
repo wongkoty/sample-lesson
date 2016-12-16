@@ -1,4 +1,4 @@
-# ![](https://tuanthong138.files.wordpress.com/2016/10/html_css.jpg =250x) Commandline and HTML + CSS Basics!
+# <img src="https://tuanthong138.files.wordpress.com/2016/10/html_css.jpg" align="left" height="400" >Commandline and HTML + CSS Basics!
 
 ### Objectives
 
