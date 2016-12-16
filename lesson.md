@@ -50,6 +50,13 @@ Now `pwd` in terminal again and it should display something along the lines of:
 
 **If you get something along those lines give me an IRL thumbs up!**
 
+If you want to go back up on level, type this into the terminal:
+```bash
+$ cd ..
+```
+
+`cd ..` Tells our terminal that we want to move up one directory level. We can use `cd` and `cd ..` to go up and down directories!
+
 **Moving on, let's create the folder for our first HTML file!**
 
 In terminal:
