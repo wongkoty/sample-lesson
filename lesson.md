@@ -172,7 +172,8 @@ You should have something like this:
 
 Let's look at our work of art! Double click the `HTML` file to open it in a browser of your choice! Do you see the size difference of the text in `<h1>` and `<h4>?`
 
-*###Bonus###* CSS Basics!
+##Bonus 
+- CSS Basics
 
 ---
 ##Summary##
