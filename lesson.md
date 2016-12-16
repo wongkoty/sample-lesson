@@ -50,5 +50,17 @@ Now `pwd` in terminal again and it should display something along the lines of:
 
 If you get something along those lines give me a thumbs up!
 
+Moving on, let's create the folder for our first HTML file!
+
+In terminal:
+```bash
+$ mkdir first_folder
+$ ls
+```
+
+The `mkdir` command Makes a Directory or as we call it, a folder, in the directory we currently are in and gives it whatever name we choose. In this case it is `first_folder`
+
+The `ls` commands lists the contents of the directory we currently are in. In this case, since our current directory is Desktop, it'll list all the files and folders in our current directory. 
+
 
 
