@@ -1,5 +1,5 @@
 # <img src="https://tuanthong138.files.wordpress.com/2016/10/html_css.jpg" height="200"></br>
-Commandline and HTML + CSS Basics!
+Commandline and HTML Basics!
 
 ## Objectives
 
@@ -18,7 +18,7 @@ For most people, we create files from our programs that we run on our computers 
 
 To open our terminal do the below:
 
-- Lets hit <kbd>command</kbd> + <kbd>space</kbd> together to open our 
+- Lets hit <kbd>command</kbd> + <kbd>space</kbd> together to open our terminal
 - Type in "terminal" in our searchbar and open up that application
 - A terminal like the one above should appear!
 
@@ -171,6 +171,8 @@ You should have something like this:
 ##FINALLY##
 
 Let's look at our work of art! Double click the `HTML` file to open it in a browser of your choice! Do you see the size difference of the text in `<h1>` and `<h4>?`
+
+*###Bonus###* CSS Basics!
 
 ---
 ##Summary##
