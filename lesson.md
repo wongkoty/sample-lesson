@@ -48,7 +48,7 @@ $ cd Desktop
 Now `pwd` in terminal again and it should display something along the lines of:
 `/Users/some_user/Desktop/` 
 
-###If you get something along those lines give me an IRL thumbs up!###
+**If you get something along those lines give me an IRL thumbs up!**
 
 **Moving on, let's create the folder for our first HTML file!**
 
@@ -87,7 +87,7 @@ $ ls
 
 `ls` will again list the files and folders in our current directory, which is now first_folder.
 
-###Give me a thumbs up in slack when you have created your index.html file!###
+**Give me a thumbs up in slack when you have created your index.html file!**
 
 **Edit our HTML file!**
 
