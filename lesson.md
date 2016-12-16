@@ -7,7 +7,6 @@ Commandline and HTML Basics!
 
 - Navigate through their operating system through terminal
 - Create files and folders from terminal
-- Delete files and folders from terminal
 - Create an HTML file with some HTML elements
 
 ## Making files and folders from the command line (10 mins) 
