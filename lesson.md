@@ -1,7 +1,7 @@
 # <img src="https://tuanthong138.files.wordpress.com/2016/10/html_css.jpg" height="200"></br>
 Commandline and HTML + CSS Basics!
 
-### Objectives
+## Objectives
 
 *After this lesson, students will be able to:
 
@@ -10,7 +10,7 @@ Commandline and HTML + CSS Basics!
 - Delete files and folders from terminal
 - Create an HTML file with some HTML elements
 
-### Making files and folders from the command line (10 mins) 
+## Making files and folders from the command line (10 mins) 
 
 For most people, we create files from our programs that we run on our computers (microsoft word, excel, powerpoint) and we create folders to organize our files. But today, we will learn how to do these things in the terminal.
 
@@ -27,7 +27,7 @@ Althoguh there are multiple ways to open our terminal, we'll stick to this one a
 By default, the terminal should say last login and give the name of the user you are currently logged in as. If it doesn't, don't sweat it for now as we can change that later. 
 
 ---
-### Let's go into our desktop and create a folder!
+## Let's go into our desktop and create a folder!
 
 In our terminal type:
 ```bash 
@@ -48,7 +48,7 @@ $ cd Desktop
 Now `pwd` in terminal again and it should display something along the lines of:
 `/Users/some_user/Desktop/` 
 
-#If you get something along those lines give me an IRL thumbs up!#
+###If you get something along those lines give me an IRL thumbs up!###
 
 **Moving on, let's create the folder for our first HTML file!**
 
@@ -65,7 +65,7 @@ The `ls` commands lists the contents of the directory we currently are in. In th
 *If you have a ton of files and folders on your desktop, you may have to scroll through the terminal to see `first_folder`*
 
 ---
-### Now let's create our HTML file and start writing some HTML! (10 minutes)
+## Now let's create our HTML file and start writing some HTML! (10 minutes)
 
 Let's go into our first_folder directory like how we did to get into our desktop directory. 
 
@@ -87,7 +87,7 @@ $ ls
 
 `ls` will again list the files and folders in our current directory, which is now first_folder.
 
-#Give me a thumbs up in slack when you have created your index.html file!#
+###Give me a thumbs up in slack when you have created your index.html file!###
 
 **Edit our HTML file!**
 
